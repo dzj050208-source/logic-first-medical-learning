@@ -1,0 +1,6 @@
+interface:
+  display_name: "逻辑优先医学学习"
+  short_description: "从研究目的、因果链和表面与实质的区别理解医学知识"
+  default_prompt: "使用 $logic-first-medical-learning 从本质逻辑解释这个医学概念。"
+policy:
+  allow_implicit_invocation: true
